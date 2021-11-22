@@ -1,0 +1,42 @@
+Antik Yunan'dan beri kullanılan palindrom kelimesinin sözlük anlamı ters giden, geri geri koşan kişi'dir. Pisagor ve Herakleitos'un metinlerinde de geçen bu terim, ters yazıldığında telaffuzları ve anlamları değişmeyen sözcükler için kullanılır. Örneğin ''11'' kelimesinin tersi de 11'dir ve kendisine eşittir. 
+
+
+Birçok ünlü müzisyen ve edebiyatçı palindrom kavramıyla yakından ilgilenmiş ve bu alanda eser vermiştir. Avusturyalı ünlü müzisyen Wolfgang Amadeus Mozart'ın tersten okunuşu da aynı olan notalarda yazdığı Der Spiegel adlı eseri, müzikteki ilk palindrom örneklerinden biridir.
+
+Palindrom kelimesinin ilk geçtiği kaynaklardan biri ünlü düşünür Pisagor'un The Golden Verses adlı eseridir. Geçmişten günümüze palindrom şeklinde yazılan birçok şiir ve öykü yayımlanmıştır. 
+
+Palindrom Kelime ve Cümle Örnekleri Nelerdir? 
+
+Palindrom Kelime Örnekleri: 
+
+ 1- Şamaş: 
+
+Akadça kökenli bir sözcük olan Şamaş, Mezopotomya uygarlıklarından biri olan Babil'deki güneş tanrısının adıdır. 
+
+Şamaş kelimesi tersten de aynı şekilde okunur ve yazılır. Yazılışı aynı olduğu için anlamı değişmez. 
+
+2- Küçük: 
+
+Küçük kelimesi K - Ü - Ç - Ü - K harflerinden oluşur. Bu harfler tersten okunduğunda da kelimenin yapısında ve anlamında bir değişme olmaz. 
+
+Diğer palindrom kelimelerden bazıları: 
+
+ -Kazak, Yay, Bâb, Sis. 
+
+ 2- Palindrom Cümle: 
+
+ Traş adama şart. 
+
+ 3- Palindrom Sayı Örnekleri 
+
+ 22 
+
+ 99 
+
+ 111 
+
+ 333 
+
+ 1001 
+
+ Not: Tek sayılar da tersten okunduğunda aynı olduğu için palindrom sayılar arasında yer alırlar. Örneğin: 4, 6, 9
